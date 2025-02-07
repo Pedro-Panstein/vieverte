@@ -1,5 +1,5 @@
 # VIE VERTE
- <img src="vie verte4.png" alt="Vie verte"  >
+ <img src="vieverte.png" alt="Vie verte"  >
 
 
 <!-- Joana -->
@@ -18,10 +18,8 @@
     - **Next.js** --> Next para construção de interfaces dinâmicas e escaláveis. Utilizado para criar os dashboards e visualizações de dados, proporcionando uma experiência interativa e de fácil navegação.
 
 
-
-
 2. **Backend**
-    - **Java** --> Java: Linguagem de programação utilizada para o desenvolvimento do backend, garantindo robustez e escalabilidade no processamento dos dados recebidos pelos sensores IoT.
+    - **Java** --> Linguagem de programação utilizada para o desenvolvimento do backend, garantindo robustez e escalabilidade no processamento dos dados recebidos pelos sensores IoT.
     - **Spring** --> Framework Java utilizado para facilitar a criação de APIs RESTful, roteamento, segurança e integração com o banco de dados MySQL.
     - **MQTT** --> Protocolo de comunicação em tempo real utilizado para enviar dados dos sensores IoT para o servidor de forma eficiente e leve.
 
